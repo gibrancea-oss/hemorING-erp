@@ -1,0 +1,7 @@
+streamlit
+pandas
+plotly
+qrcode
+streamlit-gsheets
+st-gsheets-connection
+openpyxl
