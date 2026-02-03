@@ -1,8 +1,6 @@
 streamlit
 pandas
-plotly
-qrcode
-st-gsheets-connection
-openpyxl
 gspread
 google-auth
+plotly
+
