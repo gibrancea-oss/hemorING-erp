@@ -4,3 +4,5 @@ plotly
 qrcode
 st-gsheets-connection
 openpyxl
+gspread
+google-auth
